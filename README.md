@@ -1,5 +1,5 @@
 # Shoe-UI-UX-figma
-Gen Z-inspired desktop shoe store UI/UX in Figma with fun elements, organized categories, and a clean shopping experience.
+Desktop shoe store UI/UX in Figma with fun elements, organized categories, and a clean shopping experience.
 
 Features
 - Desktop layout design (mobile version may be added in the future)
